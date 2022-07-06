@@ -3,19 +3,19 @@
 
 </br>
 
-## :pushpin: Intro
+## 👉 Intro
 (여기에 자기 소개)
 
 </br>
 
-## :pushpin: Contact
+## 👉 Contact
 - 이메일: pan5158a@gmail.com
 - 블로그: https://pan2468.tistory.com/
 - 깃헙: https://github.com/pan2468
 
 </br>
 
-## :pushpin: Projects
+## 👉 Projects
 ### 1. [goQuality](https://github.com/Integerous/goQuality)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
