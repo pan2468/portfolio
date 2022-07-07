@@ -29,12 +29,12 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
+### 2. [food]()
 >두 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2022.6.3 ~ 2022.06.13  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security  
 >  
 >[프로젝트 상세 설명](https://github.com/pan2468/food) 참고
