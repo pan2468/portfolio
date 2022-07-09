@@ -36,6 +36,6 @@
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security  
+>H2 / MySQL / Spring Security / TDD 
 >  
 >[프로젝트 상세 설명](https://github.com/pan2468/comment_board) 참고
