@@ -29,13 +29,4 @@
 >  
 >[프로젝트 상세 설명](https://github.com/pan2468/food) 참고
 
----
-### 2. [댓글 게시판]()
->프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2022.07.08 ~ 진행중  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / TDD 
->  
->[프로젝트 상세 설명](https://github.com/pan2468/comment_board) 참고
+
