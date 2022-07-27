@@ -35,7 +35,7 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Spring Data JPA / Spring Security 
-> Maven/ QueryDSL / MySQL/   
+> Maven/ QueryDSL / MySQL /   
 >  
 >[프로젝트 상세 설명](https://github.com/pan2468/shopmall) 참고
 
