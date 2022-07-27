@@ -34,8 +34,8 @@
 >개발 기간: 2022.05.10 ~ 2022.05.25  
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Spring Data JPA / Spring Security 
-> Maven/ QueryDSL / MySQL /   
+>Java 11 / Spring Boot / Spring Data JPA / Spring Security   
+> Maven/ QueryDSL / MySQL / 
 >  
 >[프로젝트 상세 설명](https://github.com/pan2468/shopmall) 참고
 
