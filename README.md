@@ -29,7 +29,7 @@
 >  
 >[프로젝트 상세 설명](https://github.com/pan2468/notice) 참고
 
-### 2. [쇼핑몰 프로젝트](https://github.com/pan2468/shopmall)
+<!-- ### 2. [쇼핑몰 프로젝트](https://github.com/pan2468/shopmall)
 >프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2022.05.10 ~ 2022.05.25  
 >  
@@ -37,7 +37,7 @@
 >Java 11 / Spring Boot / Spring Data JPA / Spring Security   
 > Maven/ QueryDSL / MySQL / 
 >  
->[프로젝트 상세 설명](https://github.com/pan2468/shopmall) 참고
+>[프로젝트 상세 설명](https://github.com/pan2468/shopmall) 참고 -->
 
 ### 3. [고객 및 주문](https://github.com/pan2468/kotlin-springboot)
 >프로젝트 간략 소개  (개인 프로젝트)  
